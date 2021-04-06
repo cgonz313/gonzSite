@@ -1,3 +1,15 @@
+@font-face {
+
+    font-family: 'train';
+  
+    src: url('./TrainOne-Regular.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  
+  }
+
 .hello {
     color: red;
+    background: url('./icon.png');
+    font-family: 'train';
 }

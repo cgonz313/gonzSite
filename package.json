@@ -19,8 +19,6 @@
   },
   "homepage": "https://github.com/cgonz313/gonzSite#readme",
   "devDependencies": {
-    "css-loader": "^5.2.0",
-    "style-loader": "^2.0.0",
     "webpack": "^5.28.0",
     "webpack-cli": "^4.6.0"
   },
